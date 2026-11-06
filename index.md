@@ -14,9 +14,9 @@ I want to try W8A8 with ParoQuant and GPU-ANE coordination and extend our evalua
 
 **What is a potential change you’d make to the approach taken in your current Quarter 1 Project?**
 
-Expanding our test suite of prompts to cover a wider variety, and also spending more time profiling where computation and memory are being used in our baseline model.
+Expanding our test suite of prompts to cover a wider variety of scenarios, and also spending more time profiling where computation and memory are being used in our baseline model.
 
 
 **What other techniques would you be interested in using in your project?**
 
-Designing custom GPU kernels to speed up computation on Apple Silicon, probably targeting self-attention.
+Designing custom GPU kernels to speed up computation on Apple Silicon, probably targeting self-attention. I'm also interested in how we can combine feature forecasting with other efficiency methods like quantization or sparse attention.
