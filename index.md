@@ -1,7 +1,7 @@
-- **Name**: Alan Xia
-- **Email**: alxia@ucsd.edu
-- **Section**: D38
-- **Mentor**: Zhijian Liu
+**Name**: Alan Xia
+**Email**: alxia@ucsd.edu
+**Section**: D38
+**Mentor**: Zhijian Liu
 
 **What is the most interesting topic covered in your domain this quarter?**
 
