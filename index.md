@@ -1,6 +1,4 @@
-# DSC 180A Methodology Assignment 4
-
-- **Name**:Alan Xia
+- **Name**: Alan Xia
 - **Email**: alxia@ucsd.edu
 - **Section**: D38
 - **Mentor**: Zhijian Liu
